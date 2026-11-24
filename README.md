@@ -20,3 +20,18 @@
 ### YT-Gryo "URL"
 
 ### YT-Gryo -F "URL"
+
+
+
+
+# Third-Party Software
+
+YT-Gryo uses the following third-party software:
+
+- **FFmpeg** — Used for audio extraction, conversion, and video processing.
+  - Website: https://ffmpeg.org/
+  - License: LGPL 2.1 or later, subject to the specific build configuration.
+
+- **yt-dlp** — Used as the media downloading backend.
+  - Website: https://github.com/yt-dlp/yt-dlp
+  - License: The Unlicense.
