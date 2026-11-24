@@ -7,7 +7,7 @@
 ### Gryonites Custom Video Downloader based off of Yt-Dlp
 
 
-# Download Commands
+# Commands
 
 ## All Download Commands
 
