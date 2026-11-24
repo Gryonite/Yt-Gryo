@@ -2,6 +2,8 @@
 
 # Yt-Gryo
 
+<img width="550" height="550" alt="image" src="Yt-Gryo Logo.png" />
+
 </div>
 
 ### Gryonites Custom Video Downloader based off of Yt-Dlp
